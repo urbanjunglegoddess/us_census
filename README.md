@@ -8,13 +8,6 @@ Transportation Dashboard
 
 [https://public.tableau.com/views/USCensusData\_16944833864880/TranspoDas?:language=en-US&:display\_count=n&:origin=viz\_share\_link](https://public.tableau.com/views/USCensusData_16944833864880/TranspoDas?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-  
-
-Visualization:
-
-![](https://t8495850.p.clickup-attachments.com/t8495850/4fcc6d2d-e821-43ad-a8f7-d199cdf4c8e2/Transpo%20Das.png)
-
-  
 
 Summary:
 
@@ -60,11 +53,6 @@ Income and Poverty Dashboard
 
   
 
-Visualization:
-
-![](https://t8495850.p.clickup-attachments.com/t8495850/9a515b17-b68f-45f2-b7bd-d011c99861b2/Pov%20Dash-2.png)
-
-  
 
 Summary:
 
@@ -108,11 +96,6 @@ Employment Dashboard
 
   
 
-Visualization:
-
-![](https://t8495850.p.clickup-attachments.com/t8495850/5e987124-d9c9-4080-b75d-2fc9c951bb96/Occupo%20Dash-3.png)
-
-  
 
 Summary:
 
